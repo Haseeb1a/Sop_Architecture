@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "368846708150",
+    "project_id": "totalxfirstrecriation",
+    "storage_bucket": "totalxfirstrecriation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368846708150:android:75294e79f4caf9344e3517",
+        "android_client_info": {
+          "package_name": "com.task_sop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368846708150-5nfdavh08qsge7kibo5c2727ocgve10g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSbrmYq0gQvLH9xlZ0hw3J_BFKjizpWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368846708150-5nfdavh08qsge7kibo5c2727ocgve10g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368846708150-t2tg2ki4ojl937k955nonlre9j2dp0dr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.totalxrecriation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368846708150:android:ecca38f05262e5c34e3517",
+        "android_client_info": {
+          "package_name": "com.totalx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368846708150-t2cgtsfoi6ilotpmbdcdqpc0tgo98huh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.totalx",
+            "certificate_hash": "a9b36282935db4ce5bba9f08af285812f62057ec"
+          }
+        },
+        {
+          "client_id": "368846708150-5nfdavh08qsge7kibo5c2727ocgve10g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSbrmYq0gQvLH9xlZ0hw3J_BFKjizpWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368846708150-5nfdavh08qsge7kibo5c2727ocgve10g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368846708150-t2tg2ki4ojl937k955nonlre9j2dp0dr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.totalxrecriation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
